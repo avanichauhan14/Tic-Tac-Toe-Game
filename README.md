@@ -16,17 +16,6 @@ A simple and beginner-friendly Tic-Tac-Toe game built using **HTML**, **CSS**, a
 - CSS
 - JavaScript
 
-# How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   ```
-
-2. Open the project folder.
-
-3. Double-click `index.html` or open it in your favorite web browser.
-
 # How to Play
 
 - Player **X** always starts first.
@@ -48,9 +37,12 @@ While building this project, I learned:
 - Game logic implementation
 
 # Screenshots
-![Game Board](images/image1.jpeg)
-![Winning Board](images/image2.jpeg)
 
+1.Game Board
+![Game Board](images/image1.jpeg)
+
+2.Winning Board
+![Winning Board](images/image2.jpeg)
 
 # Future Improvements
 
